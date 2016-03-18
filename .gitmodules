@@ -1,0 +1,15 @@
+[submodule "hikewithben_aggregate"]
+	path = hikewithben_aggregate
+	url = https://github.com/benjamincrom/hikewithben_aggregate.git
+[submodule "hikewithben_calendar_appengine_api"]
+	path = hikewithben_calendar_appengine_api
+	url = https://github.com/benjamincrom/hikewithben_calendar_appengine_api.git
+[submodule "hikewithben_calendar_ui"]
+	path = hikewithben_calendar_ui
+	url = git@github.com:benjamincrom/hikewithben_calendar_ui.git
+[submodule "hikewithben_enrich"]
+	path = hikewithben_enrich
+	url = https://github.com/benjamincrom/hikewithben_enrich.git
+[submodule "hikewithben_search"]
+	path = hikewithben_search
+	url = https://github.com/benjamincrom/hikewithben_search.git
