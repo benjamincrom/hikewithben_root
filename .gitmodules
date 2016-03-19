@@ -13,3 +13,6 @@
 [submodule "hikewithben_search"]
 	path = hikewithben_search
 	url = https://github.com/benjamincrom/hikewithben_search.git
+[submodule "dockerimage_flask_numpy_redis"]
+	path = dockerimage_flask_numpy_redis
+	url = https://github.com/benjamincrom/dockerimage_flask_numpy_redis.git
