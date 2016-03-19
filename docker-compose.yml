@@ -1,0 +1,17 @@
+web:
+  build: ./hikewithben_search
+  env_file: .env
+  ports:
+    - "8000:8000"
+  links:
+    - redis
+
+nginx:
+  build: ./hikewithben_calendar_ui
+  ports:
+    - "80:80"
+
+redis:
+  image: redis
+  ports:
+    - "6379"
