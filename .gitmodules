@@ -1,6 +1,3 @@
-[submodule "hikewithben_aggregate"]
-	path = hikewithben_aggregate
-	url = https://github.com/benjamincrom/hikewithben_aggregate.git
 [submodule "hikewithben_calendar_appengine_api"]
 	path = hikewithben_calendar_appengine_api
 	url = https://github.com/benjamincrom/hikewithben_calendar_appengine_api.git
