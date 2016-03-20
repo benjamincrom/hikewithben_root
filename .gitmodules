@@ -4,12 +4,12 @@
 [submodule "hikewithben_calendar_ui"]
 	path = hikewithben_calendar_ui
 	url = git@github.com:benjamincrom/hikewithben_calendar_ui.git
-[submodule "hikewithben_enrich"]
-	path = hikewithben_enrich
-	url = https://github.com/benjamincrom/hikewithben_enrich.git
 [submodule "hikewithben_search"]
 	path = hikewithben_search
 	url = https://github.com/benjamincrom/hikewithben_search.git
-[submodule "dockerimage_flask_numpy_redis"]
-	path = dockerimage_flask_numpy_redis
-	url = https://github.com/benjamincrom/dockerimage_flask_numpy_redis.git
+[submodule "hikewithben_enrich_redis"]
+	path = hikewithben_enrich_redis
+	url = git@github.com:benjamincrom/hikewithben_enrich_redis.git
+[submodule "hikewithben_initialize_redis"]
+	path = hikewithben_initialize_redis
+	url = git@github.com:benjamincrom/hikewithben_initialize_redis.git
