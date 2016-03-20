@@ -10,6 +10,8 @@ enricher:
 search:
   build: ./hikewithben_search
   env_file: .env
+  ports:
+    - "80:80"
   links:
     - redis
 
