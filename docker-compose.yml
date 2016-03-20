@@ -1,8 +1,8 @@
 redis:
   image: redis
 
-enricher:
-  build: ./hikewithben_enrich
+initializer:
+  build: ./hikewithben_initialize_redis
   env_file: .env
   links:
     - redis

@@ -4,9 +4,6 @@
 [submodule "hikewithben_search"]
 	path = hikewithben_search
 	url = https://github.com/benjamincrom/hikewithben_search.git
-[submodule "hikewithben_enrich_redis"]
-	path = hikewithben_enrich_redis
-	url = git@github.com:benjamincrom/hikewithben_enrich_redis.git
 [submodule "hikewithben_initialize_redis"]
 	path = hikewithben_initialize_redis
 	url = git@github.com:benjamincrom/hikewithben_initialize_redis.git
